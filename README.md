@@ -8,7 +8,7 @@
 <p align="center">
   <picture>
     <source srcset="assets/window.png">
-    <img alt="Spectrum" width="360" src="assets/window.png">
+    <img alt="Spectrum" src="assets/window.png">
   </picture>
 </p>
 

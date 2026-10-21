@@ -5,6 +5,13 @@
   </picture>
 </p>
 
+<p align="center">
+  <picture>
+    <source srcset="assets/window.png">
+    <img alt="Spectrum" src="assets/window.png">
+  </picture>
+</p>
+
 [English](README.md) · [Русский](README.ru.md)
 
 ![Version](https://img.shields.io/badge/version-0.1-blue)
