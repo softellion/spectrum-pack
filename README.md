@@ -59,7 +59,7 @@
 
 There is no installer — the distribution ships as a portable archive.
 
-1. **Unpack the archive.** Download `spectrum_vX.Y.zip` from the [Releases](../../releases) page and extract it to a folder with write access, e.g. `C:\Users\<user>\Spectrum`.
+1. **Unpack the archive.** Download `spectrum_vX.Y.zip` from the [Releases](https://github.com/softellion/spectrum-pack/releases) page and extract it to a folder with write access, e.g. `C:\Users\<user>\Spectrum`.
 2. **Connect the plugin in KOMPAS-3D.** Open the Applications menu and point it to `spectrum.kompas3d.rtw` from the unpacked folder — the plugin ships as this single file.
 3. **Launch Spectrum.** Run `spectrum.exe`. Spectrum must be running before you export from KOMPAS-3D — otherwise the plugin reports that Spectrum is unavailable.
 
@@ -104,7 +104,7 @@ For a full version, contact [contact@softellion.com](mailto:contact@softellion.c
 ## FAQ / Troubleshooting
 
 **Windows SmartScreen or antivirus warns about spectrum.exe.**
-The executable is not digitally signed, so Windows may show a warning. Click "More info" → "Run anyway". Download the archive only from the official [Releases](../../releases) page of this repository.
+The executable is not digitally signed, so Windows may show a warning. Click "More info" → "Run anyway". Download the archive only from the official [Releases](https://github.com/softellion/spectrum-pack/releases) page of this repository.
 
 **The plugin reports that Spectrum is unavailable.**
 Launch `spectrum.exe` before exporting from KOMPAS-3D — the plugin connects to a running Spectrum instance only.
@@ -130,7 +130,7 @@ Spectrum accesses the internet only to download materials from AMD GPUOpen (`api
 
 - **Website** — [softellion.com/en/products/spectrum](https://www.softellion.com/en/products/spectrum)
 - **Email** — [contact@softellion.com](mailto:contact@softellion.com)
-- **Bug reports and suggestions** — [Issues](../../issues)
+- **Bug reports and suggestions** — [Issues](https://github.com/softellion/spectrum-pack/issues)
 
 ## Changelog
 
