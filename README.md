@@ -94,6 +94,7 @@ The transform gizmo appears when exactly one object is selected; modes: **T** â€
 The distributed package is a **trial version** with the following limitation:
 
 - saving the rendered image is limited to **720p**.
+- application screenshots are blocked.
 
 For a full version, contact [contact@softellion.com](mailto:contact@softellion.com).
 
